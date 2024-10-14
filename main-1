@@ -1,4 +1,0 @@
-text = 'Hello World'
-shift = 3
-
-print(text)
