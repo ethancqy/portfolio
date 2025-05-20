@@ -4,4 +4,4 @@ I am very passionate about two things, data science and psychology. This spurs m
 ## 1. Projects in Chronological Order
 | Date | Project + Link | Short Description | Skills |
 | ------- | ------- | ------- | ------ |
-| | Neural Network from Scratch (MNIST) | | |
+| 20th May 2025 | Neural Network from Scratch (MNIST) | | |
