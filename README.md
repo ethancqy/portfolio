@@ -4,4 +4,4 @@ I am very passionate about three things, data science, psychology, and finance. 
 ## 1. Projects in Chronological Order
 | Date | Project + Link | Short Description | Skills |
 | ------- | ------- | ------- | ------ |
-| 20th May 2025 | Neural Network from Scratch (MNIST) | | |
+| 20th May 2025 | (Neural Network from Scratch (MNIST))[Neural Network from Scratch (MNIST)/Neural Network from Scratch (MNIST).ipynb] | | |
